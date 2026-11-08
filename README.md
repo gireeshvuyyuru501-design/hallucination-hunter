@@ -27,3 +27,32 @@ Produces `evidence_report.json` containing per-example evidence matching results
 ## Roadmap
 
 Add a configurable input JSONL of actual model outputs, semantic entailment evaluation, evidence span attribution, human-labeled error sets, FastAPI endpoints, and optional Gemini evaluation after API access is verified.
+
+<!-- PORTFOLIO-OVERVIEW-START -->
+
+## Project overview
+
+Evaluate extractive evidence matching against SQuAD references for grounded-answer checks.
+
+### Technologies and concepts
+
+ - python
+ - hallucination detection
+ - nlp
+ - ai testing
+ - squad
+
+### Repository information
+
+- **Category:** AI Quality Engineering / Software Testing
+- **Evaluation type:** Offline and/or synthetic fixtures, as documented in this repository
+- **Source code:** [GitHub repository](https://github.com/gireeshvuyyuru501-design/hallucination-hunter.git)
+- **License:** MIT (subject to repository license file)
+
+### AI Quality Engineering portfolio
+
+This project is part of an 11-project portfolio covering evaluation datasets, structured-output validation, offline scoring, prompt regression, retrieval benchmarking, adversarial testing, agent tool calls, and quality monitoring.
+
+[Explore the integrated AI Quality Engineering Platform](https://github.com/gireeshvuyyuru501-design/ai-quality-engineering-platform)
+
+<!-- PORTFOLIO-OVERVIEW-END -->
